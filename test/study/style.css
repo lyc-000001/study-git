@@ -1,0 +1,20 @@
+html {
+    background-color: green;
+    font-size: 20px;
+}
+Ol {
+    background: rgb(49, 35, 196);
+    padding: 10px;
+    border: 10 solid rgb(173, 12, 92);
+}
+
+Ul {
+    background: rgb(200, 25, 60);
+    padding: 10px;
+    border: 1px solid rgb(234, 228, 228);
+}
+
+li {
+    margin-left: 20px;
+}
+
